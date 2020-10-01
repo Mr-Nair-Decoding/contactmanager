@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/contactmanagerSachinSelfLearningProject/static/css/main.36497136.chunk.css",
+    "main.js": "/contactmanagerSachinSelfLearningProject/static/js/main.252cf4ee.chunk.js",
+    "main.js.map": "/contactmanagerSachinSelfLearningProject/static/js/main.252cf4ee.chunk.js.map",
+    "runtime-main.js": "/contactmanagerSachinSelfLearningProject/static/js/runtime-main.fb1560e0.js",
+    "runtime-main.js.map": "/contactmanagerSachinSelfLearningProject/static/js/runtime-main.fb1560e0.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/contactmanagerSachinSelfLearningProject/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.9b98892d.chunk.js": "/contactmanagerSachinSelfLearningProject/static/js/2.9b98892d.chunk.js",
+    "static/js/2.9b98892d.chunk.js.map": "/contactmanagerSachinSelfLearningProject/static/js/2.9b98892d.chunk.js.map",
+    "index.html": "/contactmanagerSachinSelfLearningProject/index.html",
+    "precache-manifest.e6899f9aeecefb1419521b2a53d98907.js": "/contactmanagerSachinSelfLearningProject/precache-manifest.e6899f9aeecefb1419521b2a53d98907.js",
+    "service-worker.js": "/contactmanagerSachinSelfLearningProject/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/contactmanagerSachinSelfLearningProject/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/contactmanagerSachinSelfLearningProject/static/css/main.36497136.chunk.css.map",
+    "static/js/2.9b98892d.chunk.js.LICENSE.txt": "/contactmanagerSachinSelfLearningProject/static/js/2.9b98892d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb1560e0.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.9b98892d.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.252cf4ee.chunk.js"
+  ]
+}
